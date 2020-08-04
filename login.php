@@ -11,7 +11,7 @@
     <div class="container">
         <div class="containerTop">
             <div class="logo">
-                <h1>STAEBELL</h1>
+                <h1>CAMILLE</h1>
             </div>
             
 
